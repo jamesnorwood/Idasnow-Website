@@ -1,4 +1,6 @@
-# Idasnow ![alt text](https://github.com/jamesnorwood/Idasnow/blob/master/public/images/favicon-small.jpg "Idasnow Icon")
+ ![alt text](https://github.com/jamesnorwood/Idasnow/blob/master/public/images/favicon-small.jpg "Idasnow Icon")
+
+# Idasnow
 Starter code for webdev project.
 
 https://idasnow.herokuapp.com/
