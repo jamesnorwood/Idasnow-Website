@@ -1,4 +1,4 @@
-# Website Project Starter
+# Idasnow
 Starter code for webdev project.
 
 https://idasnow.herokuapp.com/
