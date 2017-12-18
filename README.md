@@ -14,13 +14,15 @@ git push origin master
 ```
 
 ## Directory Structure
-* database - Database setup files 
+* database - Database config files and sql table info.
+* docs - project documentation (e.g. design, requirements, etc) 
 * public - Public site files
   * config - Custom PHP config files
   * css - Cascading Style Sheets (CSS) files
-  * fonts - A list of fonts to apply to the website. 
   * images - Image files (png, jpg, etc.)
+   * icons - icons images
+  * includes - header, footer, and navigation files.
   * js - JavaScript files
-  * old html files - old html files that aren't in use anymore.
-  * php - php files.
-* docs - project documentation (e.g. design, requirements, etc) 
+  * php - php files
+   * archived - archived files not in use anymore
+    * old html files - old html files that aren't in use anymore.
